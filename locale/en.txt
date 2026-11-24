@@ -1,0 +1,161 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_04806A74_442C_A7A7_41C2_F9393EB7CEC2.source = https://www.facebook.com/gs.sentjur
+LinkBehaviour_07E71271_4464_67A1_4195_C3A98DAAC190.source = https://www.facebook.com/gs.sentjur
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64439.60463741977!2d15.03852734070295!3d46.3045851463372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765662cf20aa17f%3A0x48ccca5dbcb9149f!2sOb%C4%8Dina%20Polzela%2C%203313!5e1!3m2!1ssl!2ssi!4v1749393472069!5m2!1ssl!2ssi
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64439.60463741977!2d15.03852734070295!3d46.3045851463372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765662cf20aa17f%3A0x48ccca5dbcb9149f!2sOb%C4%8Dina%20Polzela%2C%203313!5e1!3m2!1ssl!2ssi!4v1749393472069!5m2!1ssl!2ssi
+LinkBehaviour_C738E440_FFA8_0ECF_41B2_FC0C18600C58.source = https://www.gszalec.si/
+LinkBehaviour_55CBC465_00A8_0ED1_40FE_E144A0C560A0.source = https://www.gszalec.si/
+
+## Media
+
+### Audio
+audiores_93779342_B28B_AFDB_41B2_CFBD6FA31459.url = media/audio_ACEC39F5_B275_BAB9_41DB_016FC1D84423_en.mp3
+audiores_93676B6F_B28B_BFA9_41AC_4517EB1E1E10.url = media/audio_AFC1EFF7_B27B_76B8_41D9_506DA53D15FB_en.mp3
+audiores_8E18A38E_AAFD_0EB0_41AB_04C5BDBF494A.url = media/audio_BF425FE6_AACD_1670_41D0_866896A7DDA1_en.mp3
+audiores_8FC96053_AAFD_0A50_41C9_F5508A3D19A3.url = media/audio_BF43701B_AACD_09D0_41A4_4B2571E7328D_en.mp3
+audiores_8E22C516_AAFD_0BD0_41D3_34A26472FD55.url = media/audio_BF440F60_AACD_1670_41DA_F1D86C30C434_en.mp3
+audiores_8E0F0920_AAFD_1BF0_4195_C3988583C033.url = media/audio_BF455FA9_AACD_16F0_41C5_AA529F11D3B8_en.mp3
+audiores_8E6A3B93_AAFD_1ED0_41DB_14383FD240D1.url = media/audio_BF46FECB_AACD_16B0_41E4_C04122CCD462_en.mp3
+audiores_8E5C9562_AAFD_0A70_41E1_60F3C8E87A11.url = media/audio_BF47EF1C_AACD_17D0_41BD_1280EF6149E9_en.mp3
+audiores_8C9F6895_AAFB_1AD0_41E1_D36AA4BBAD26.url = media/audio_BF48EDFC_AACD_1A50_41D3_C5C2D2EAF559_en.mp3
+audiores_8C40DE97_AAFB_36D0_41CD_DE43CAB921FB.url = media/audio_BF494E50_AACD_1650_41E4_F7AFE0DC3FA2_en.mp3
+audiores_8C562989_AAFB_1AB0_41B5_C1FB9CD4B123.url = media/audio_BF49BE94_AACD_16D0_41CC_F812916FA5CA_en.mp3
+audiores_8C8268D2_AAFB_7A50_41E2_0B213742F37C.url = media/audio_BF4BFCF9_AACD_1A50_41B8_CD50AD4D3830_en.mp3
+audiores_8CE5CEA0_AAFB_16F0_41D2_0A7BC4F6B484.url = media/audio_BF843E87_AACD_76B0_41D6_ECCF1589A9A2_en.mp3
+audiores_8CD6EF10_AAFB_37D0_41E2_D3C18F086E8D.url = media/audio_BF9ECF83_AACD_76B0_41DA_B7C5E6988201_en.mp3
+audiores_8CA8BBA0_AAFB_1EF0_41B4_2F5EC0C609BE.url = media/audio_BF9F6FDF_AACD_7650_41A3_749A5B97EFC7_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_D6328414_C15A_2176_41A5_08619717F8DA.label = Dvigalo-1.nadstropje copy
+panorama_D62E1D87_C146_2352_41E1_299E298E56D9.label = Dvigalo-Klet copy
+panorama_D63171CE_C15A_E2D2_41D7_93373C1DC6DC.label = Dvigalo-Pritlicje copy
+panorama_D62D59BA_C146_22B2_41D7_89C6AF3A18D5.label = Dvorana copy
+panorama_D256827F_C7C3_D3C0_41E0_C55766815D4E.label = GSS-HODNIK-M1 copy
+panorama_D25692F3_C7C3_F0C0_41E5_D7B6573441AE.label = HODNIK-M2-M3 copy
+panorama_D6318E4B_C15A_21D2_41CE_AB839372F0E4.label = Hodnik-K1-K2 copy
+panorama_D20F7739_C7C2_5140_41E4_503B32CAB7AC.label = Hodnik-M4 copy
+panorama_D0C1BFD5_C7C2_D0C0_41D2_489018C663B5.label = Hodnik-M5 copy
+panorama_D2560681_C7C2_3340_41CA_817B1CB08C7F.label = Hodnik-M6-M7 copy
+panorama_D2550432_C7C3_D740_41D0_3C3E9604BAAD.label = Hodnik-Mansarda copy
+panorama_D632F3B1_C15A_674E_41E6_EAAA4177D22C.label = Hodnik-N1 copy
+panorama_D632A0AB_C15A_E152_41DE_5F52DD69F961.label = Hodnik-P1 copy
+panorama_D6327F52_C15A_1FF2_41C3_1187FFFB4C34.label = Hodnik-P2 copy
+panorama_E3138B9B_C14A_E772_41AA_17958740D617.label = Hodnik-P3 copy
+panorama_D62E217F_C146_23B2_41D6_39949CF50F13.label = Hodnik-U1-U2 copy
+panorama_D62E8488_C146_E15E_41CF_29DCF505A6A2.label = Hodnik-U3 copy
+panorama_D62E8EAB_C146_2152_41D9_13FB6BA8E699.label = Stopnisce-Lokacija-2 copy
+panorama_D6336C48_C15B_E1DE_41B3_30C65E5509B2.label = Stopnisce-Mansarda copy
+panorama_D6314337_C15A_27B2_41E7_663149376D3E.label = Ucilnica-1N copy
+panorama_D631EDD2_C159_E2F2_41CF_BFE2E4B3FB7C.label = Ucilnica-K1 copy
+panorama_D6319C6C_C159_E1D6_41D1_F34A39A5AB15.label = Ucilnica-K2 copy
+panorama_D6336C0A_C15A_E152_419D_B1AD81BF3EC6.label = Ucilnica-M1 copy
+panorama_D6333BC2_C15A_E6D2_41B9_EE9CB6B211D0.label = Ucilnica-M2 copy
+panorama_D633ACE5_C15A_22D6_41D3_E8646DC8A053.label = Ucilnica-M3 copy
+panorama_D633BAE4_C15A_26D6_41D4_B9C9A255C62F.label = Ucilnica-M4 copy
+panorama_D632D08C_C15A_2156_41DF_7485FDF10104.label = Ucilnica-M5 copy
+panorama_D6334AD6_C15A_26F2_41D3_78B1448E500B.label = Ucilnica-M6 copy
+panorama_D63281CB_C15A_22D2_41C2_CD2A7E7B18B5.label = Ucilnica-M7 copy
+panorama_D631330A_C15A_6752_41D4_05BE56A40BCD.label = Ucilnica-M8 copy
+panorama_D6319010_C15A_214E_41AD_D3E4E6D474A3.label = Ucilnica-P1 copy
+panorama_D6319E73_C15A_61B2_41DB_B3CD9115ECF9.label = Ucilnica-P2 copy
+panorama_D6322DB3_C15A_22B2_41D4_91D3DE0DC609.label = Ucilnica-P3 copy
+panorama_D6E0EA83_C146_6152_41E1_E8A3D0320CB9.label = Ucilnica-U1 copy
+panorama_D62ED692_C146_E172_41DD_FE05E520597C.label = Ucilnica-U2 copy
+panorama_D62E789E_C146_2172_41E7_F4288FC27DE0.label = Ucilnica-U3 copy
+panorama_D62E2C7F_C146_21B2_41C1_D10F09C3D3A9.label = Vhod copy
+panorama_D62E6C10_C146_214E_41D1_3D21357AAAD2.label = Zunaj-GSS-1 copy
+panorama_D62E7BEC_C146_66D6_41E6_5FCFD4D5697D.label = Zunaj-GSS-2 copy
+panorama_D62EAC3E_C146_61B2_4162_81ECD7286DD4.label = Zunaj-Lokacija-2 copy
+
+## Skin
+
+### Button
+Button_70D6BA1B_442D_A761_41AF_DF442B0921C5.label = Dvorana - Lokacija II.
+Button_7672A301_5993_9227_41C4_37AA7BDC4528_mobile.label = Dvorana - Lokacija II.
+Button_17BBC345_2A8B_BC41_41BD_5B91D8E2853E_mobile.label = Hodnik 1.nadstropje
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Hodnik 1.nadstropje
+Button_1785D3D5_2A8B_BC41_41C1_2DDEBE1DCB39_mobile.label = Hodnik pritličje
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Hodnik pritličje
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_169921C3_2A8B_9C41_41B3_39AD49FB3A90_mobile.label = Stopnišče klet
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Stopnišče klet
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Stopnišče mansarda
+Button_17B480E5_2A8B_BC41_41A1_4FFD7C8D35C0_mobile.label = Stopnišče mansarda
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Stopnišče pritličje
+Button_16F7D314_2A8B_9DC7_41B2_4815DCFDD878_mobile.label = Stopnišče pritličje
+Button_17ADD002_2A8B_BBC3_41A5_4ACD8BA58F52_mobile.label = Učilnica K1 - klet
+Button_02654215_2A99_9FC1_41A7_3F31AF16C978.label = Učilnica K1 - klet
+Button_0243402D_2A8B_9BC1_41C0_142E74C42539.label = Učilnica K2 - klet
+Button_17A64F3C_2A8B_85C7_41A1_A8859F2A1796_mobile.label = Učilnica K2 - klet
+Button_75F8B963_443C_A5A1_41D1_3BA4B4B71883.label = Učilnica M1 - mansarda
+Button_771D2D1F_59B0_B65B_41D1_3653734BF5BC_mobile.label = Učilnica M1 - mansarda
+Button_77EAEC27_59B0_B66B_41D0_ECE045CA70E0_mobile.label = Učilnica M2 - mansarda
+Button_75FFE882_443C_A363_41CF_9578F8400CFD.label = Učilnica M2 - mansarda
+Button_75E5B7A4_443C_ACA7_41BD_9549EF4C4ADE.label = Učilnica M3 - mansarda
+Button_77ED0B5F_59B0_B2DB_41D3_3BBF527E0618_mobile.label = Učilnica M3 - mansarda
+Button_75EC2696_443C_AF63_41B9_970D4B293A3B.label = Učilnica M4 - mansarda
+Button_77F50A7D_59B0_B2DF_41C4_2535D33E1DE6_mobile.label = Učilnica M4 - mansarda
+Button_77FD399B_59B0_BE5B_41C0_C9B42203E964_mobile.label = Učilnica M5 - mansarda
+Button_7592B587_443C_AD61_419C_71DDC8151BCA.label = Učilnica M5 - mansarda
+Button_7599C3D9_443C_A4E1_41B7_5C826B6B6BA9.label = Učilnica M6 - mansarda
+Button_77C488BE_59B0_BE5D_41C1_457A9FEF88E4_mobile.label = Učilnica M6 - mansarda
+Button_77CFC796_59B0_B22A_41B8_CE9E69940E5B_mobile.label = Učilnica M7 - mansarda
+Button_7581E163_443C_A5A1_41B5_698239E3CD84.label = Učilnica M7 - mansarda
+Button_77D1A673_59B0_B2EB_41D1_5CF77FCEA2A8_mobile.label = Učilnica M8 - mansarda
+Button_75AF1C39_443C_63A1_41CB_32831543FBF1.label = Učilnica M8 - mansarda
+Button_75DA6C77_443C_A3A1_41AE_24F3B12FF068.label = Učilnica N1 - 1.nadstropje
+Button_62470708_4FA6_5614_41C9_552297F952AF_mobile.label = Učilnica N1 - 1.nadstropje
+Button_75C2BBAA_443C_A4A3_41CE_6AD6BEA1E2BF.label = Učilnica N2 - 1.nadstropje
+Button_773731C7_59B0_8E2B_41CA_31726586F1E6_mobile.label = Učilnica N2 - 1.nadstropje
+Button_75CA4AE2_443C_A4A3_41C6_F3B912323EE9.label = Učilnica N3 - 1.nadstropje
+Button_770140FA_59B0_8FE5_41C7_A7FD2E19E281_mobile.label = Učilnica N3 - 1.nadstropje
+Button_75F1EA16_443C_A763_41A4_52A2222EDD5D.label = Učilnica N4 - 1.nadstropje
+Button_7713F034_59B0_8E6D_41D1_C3E78D6A8319_mobile.label = Učilnica N4 - 1.nadstropje
+Button_022DBAA4_2A8B_8CC7_4183_FA0189A77CAA.label = Učilnica P1 - pritličje
+Button_16820C19_2A8A_8BC1_41BD_FE16B54AB93A_mobile.label = Učilnica P1 - pritličje
+Button_023FC90B_2A8B_8DC1_41C4_82C1AD2E5396.label = Učilnica P2 - pritličje
+Button_16A89948_2A8A_8C4F_41BC_C376DBB6E1DB_mobile.label = Učilnica P2 - pritličje
+Button_75D24D40_443C_BDDF_41C5_92D1CDAAFC67.label = Učilnica P3 - pritličje
+Button_16A6584D_2A8A_8C41_4194_D82E946F451B_mobile.label = Učilnica P3 - pritličje
+Button_0714FA26_2A99_8FC0_41C2_2356C801C10F.label = Učilnica U1 - Lokacija II.
+Button_77D9950A_59B0_B625_41D4_24D5783C31BC_mobile.label = Učilnica U1 - Lokacija II.
+Button_53EBAC80_4FEF_DA13_41D0_E0B28B28891F.label = Učilnica U2 - Lokacija II.
+Button_7788F312_59B0_B225_4191_58F9966D3F73_mobile.label = Učilnica U2 - Lokacija II.
+Button_711F4E9A_442C_5F63_41BF_0BC82693193A.label = Učilnica U3 - Lokacija II.
+Button_767C44D8_5993_9625_41D2_5057FA179361_mobile.label = Učilnica U3 - Lokacija II.
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Zunanjost
+Button_178F5EFF_2A8A_8441_41C2_4E08FD77B501_mobile.label = Zunanjost
+
+### Image
+Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8.url = skin/Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8_en.png
+Image_04FC800C_2A9A_9BC7_41BA_856BC8261511.url = skin/Image_04FC800C_2A9A_9BC7_41BA_856BC8261511_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_158761A2_2A9A_9CC3_4162_94481DF0DC44.url = skin/Image_158761A2_2A9A_9CC3_4162_94481DF0DC44_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+
+### Label
+Label_04F6200E_2A9A_9BC3_41C3_6C80963A8250.text = START
+
+### Multiline Text
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999988vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.369999999999988vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.570000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.149999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Glasbena šola skladateljev Ipavcev Šentjur</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>https://www.gs-sentjur.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>T:  03 746 16 22</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>E- naslov: info@gs-sentjur.si</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Powered by Webvisit360 </I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Glasbena šola skladateljev Ipavcev Šentjur</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>https://www.gs-sentjur.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>T:  03 746 16 22</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>E: info@gs-sentjur.si</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>Powered by Webvisit360</I></SPAN><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I> </I></SPAN><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I> </I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = GLASBENA ŠOLA SKLADATELJEV IPAVCEV ŠENTJUR-360
