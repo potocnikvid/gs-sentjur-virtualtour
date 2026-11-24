@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gs-sentjur.webvisit360.com/sitemap.xml
